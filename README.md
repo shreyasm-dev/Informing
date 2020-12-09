@@ -1,5 +1,5 @@
 # Informing
-A simple, ridiculously small module (&lt;2KB) to get information about various things
+A simple, ridiculously small module (the module itself is &lt;2KB, excluding the README, LICENSE, and package.json files) to get information about various things
 
 ---
 
