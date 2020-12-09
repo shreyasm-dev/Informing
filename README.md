@@ -172,11 +172,11 @@ Returns the query string part of the URL (for example, if the URL was `https://w
 
 ---
 
-### informing.minute()
+### informing.second()
 ```javascript
-informing.minute()
+informing.second()
 ```
-Returns the current minute. Supported in both NodeJS and the browser.
+Returns the current second. Supported in both NodeJS and the browser.
 
 ---
 
