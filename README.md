@@ -9,6 +9,14 @@ npm i informing
 ```
 Then `require()` it in your code. Done!
 
+OR:
+
+Use a CDN to import it onto your website:
+
+```html
+<script src="https://cdn.jsdelivr.net/npm/informing@1.0.5/index.min.js"></script>
+```
+
 ---
 
 Informing supports:
