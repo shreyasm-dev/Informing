@@ -3,6 +3,14 @@ A simple, ridiculously small module (&lt;2KB) to get information about various t
 
 ---
 
+Installation:
+```bash
+npm i informing
+```
+Then `require()` it in your code. Done!
+
+---
+
 Informing supports:
 ```none
 defaults
