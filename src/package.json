@@ -1,0 +1,25 @@
+{
+  "name": "informing",
+  "version": "1.0.0",
+  "description": "A simple, ridiculously small module (<2KB) to get information about various things",
+  "main": "index.js",
+  "keywords": [
+    "informing",
+    "information",
+    "data"
+  ],
+  "author": {
+    "name": "shreyasm-dev",
+    "url": "http://shreyasm.dev/"
+  },
+  "license": "MIT",
+  "homepage": "https://github.com/shreyasm-dev/Informing",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/shreyasm-dev/Informing.git",
+    "directory": "src"
+  },
+  "bugs": {
+    "url": "https://github.com/shreyasm-dev/Informing/issues"
+  }
+}
