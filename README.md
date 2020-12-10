@@ -9,13 +9,13 @@ npm i informing
 ```
 Then `require()` it in your code. Done!
 
-OR:
+Or if you're in a browser, :
 
 Use a CDN to import it onto your website:
-
 ```html
-<script src="https://cdn.jsdelivr.net/npm/informing@1.0.5/index.min.js"></script>
+<script src="https://cdn.jsdelivr.net/npm/informing@1.x.x/index.js"></script>
 ```
+This will pull in the latest version of Informing that doesn't have breaking changes, which I can't see a simple library like this having. To pull in the latest version, *even with potential breaking changes*.
 
 ---
 
