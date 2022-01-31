@@ -9,9 +9,7 @@ npm i informing
 ```
 Then `require()` it in your code. Done!
 
-Or if you're in a browser, :
-
-Use a CDN to import it onto your website:
+Or if you're in a browser, use a CDN to import it onto your website:
 ```html
 <script src="https://cdn.jsdelivr.net/npm/informing@1.x.x/index.js"></script>
 ```
